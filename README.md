@@ -1,1 +1,1 @@
-# Python_project_for_data_science_final_assignment
+This is the final assignment of Python project for data science course by IBM.
